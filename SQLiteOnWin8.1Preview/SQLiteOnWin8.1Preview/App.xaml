@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="SQLiteOnWin8._1Preview.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SQLiteOnWin8._1Preview">
+
+</Application>
